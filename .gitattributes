@@ -1,1 +1,1 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+woodmart.zip filter=lfs diff=lfs merge=lfs -text
